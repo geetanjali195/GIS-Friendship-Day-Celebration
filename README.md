@@ -7,18 +7,24 @@ sample cards for Android and Web developers
 
 #Instructions 
  
-1.Fork this Repo 
-2.Edit READ.me
-3.Commit changes
-4.Make PR
+1.Fork this Repo <br/>
+2.Edit READ.me <br/>
+3.Commit changes <br/> 
+4.Make PR <br/>
 
-#GIS-Friendship-Day-Wishes
-
-1st line - Your name and slack handle
-2nd line - project live link
-
-3rd line - repo link
-4th line - screenshot if any
+## What to add in readme.md
+* 1st line - Your name and slack handle <br/>
+  2nd line - Project live link <br/>
+  3rd line - Repo link <br/>
+  4th line - Screenshot if any <br/>
 
 EVERY CONTRIBUTOR WILL BE REWARDED WITH SOMETHING SURPRISE THINGS..
-BEST CARDS WILL BE REWARDED WITH SOMETHING MORE SURPRISE THINGS.. 
+BEST CARDS WILL BE REWARDED WITH SOMETHING MORE SURPRISE THINGS..
+ 
+#GIS-Friendship-Day-Wishes
+
+* Yash Sartanpara (@Yash.Fend) <br/>
+  https://yashsartanpara.github.io/FriendshipDayCard/ <br/>
+  https://github.com/yashsartanpara/FriendshipDayCard <br/>
+  
+ 
