@@ -27,4 +27,6 @@ BEST CARDS WILL BE REWARDED WITH SOMETHING MORE SURPRISE THINGS..
   https://yashsartanpara.github.io/FriendshipDayCard/ <br/>
   https://github.com/yashsartanpara/FriendshipDayCard <br/>
   
- 
+ * Suhanshu Patel (@Suhanshu.abnd) <br/>
+  https://appetize.io/app/xr97yvug2kn48wntf7mkhqn5e0 <br/>
+  https://github.com/Suhanshu123/GIS-FriendshipDay.git <br/>
