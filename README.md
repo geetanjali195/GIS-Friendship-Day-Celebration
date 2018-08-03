@@ -8,7 +8,7 @@ sample cards for Android and Web developers
 # Instructions 
  
 1.Fork this Repo <br/>
-2.Edit READ.me <br/>
+2.Edit README.md <br/>
 3.Commit changes <br/> 
 4.Make PR <br/>
 
