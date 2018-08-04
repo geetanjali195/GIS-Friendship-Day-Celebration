@@ -29,6 +29,6 @@ BEST CARDS WILL BE REWARDED WITH SOMETHING MORE SURPRISE THINGS..
   
 * Akash Hamirwasia (@AkashHamirwasia.mws)  
   https://friendshipday.netlify.com  
-  https://github.com/blenderskool/GIS-Friendship-Day-Celebration
+  https://gitlab.com/blenderskool/friendship-day
 
   ![](https://friendshipday.netlify.com/screenshots/screen-1.png)
