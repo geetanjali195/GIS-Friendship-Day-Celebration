@@ -1,0 +1,47 @@
+#sec1, #sec2, #sec3, #sec4{
+    text-align: center;
+}
+#my-main{
+    margin: 0 auto;
+    padding: 15px;
+    box-sizing: border-box;
+
+}
+h1{
+    font-size: 5em;
+    font-weight: bold;
+    text-align: center;
+   }
+
+
+@media screen and (max-width: 640px) {
+    #my-sec {
+        display: grid;
+        grid-template-columns: 100%;
+        grid-template-rows: auto auto auto auto;
+        align-items: center;
+        
+    }
+    .frnd-img{
+        width: 100%;
+        height: auto;
+    }
+}
+@media screen and (min-width: 1024px) {
+    section {
+        display: grid;
+        width: 100%;
+        height: auto;
+        grid-template-areas: 
+        "sec  sec6"
+        "sec7  sec8";
+        justify-items: center;
+        align-items: center;
+        grid-gap: 10px 10px;      
+        
+    }
+    .frnd-img{
+        width: 400px;
+        height: 400px;
+    }
+}
