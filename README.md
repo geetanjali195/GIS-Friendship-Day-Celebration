@@ -4,10 +4,10 @@
 # Introduction
 
  Name : HArshal Patil <br>
- Slack Username : Harshal.fend
+ Slack Username : Harshal.fend <br>
 
- Project live Link :
- GitHub Repo link: 
+ Project live Link : <br>
+ GitHub Repo link: <br>
  
 # GIS-Friendship-Day-Wishes
 
