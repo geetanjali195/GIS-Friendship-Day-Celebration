@@ -1,0 +1,22 @@
+
+
+body {
+  font-family: Lora;
+
+}
+
+header {
+  background-color: #36d4d2;
+}
+
+
+.title {
+  text-align: center;
+  font-weight: bold;
+}
+
+.header-main {
+  text-shadow: 4px 2px 2px #808080;
+  color: #FFF;
+}
+
