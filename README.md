@@ -28,3 +28,14 @@ BEST CARDS WILL BE REWARDED WITH SOMETHING MORE SURPRISE THINGS..
   https://github.com/yashsartanpara/FriendshipDayCard <br/>
   
  
+## Ruhan Khandaker
+* Slack ID
+  - @Ruhan.fend
+* Project Live Link
+  - [Friendship Card](https://ruhanrk.github.io/friendship/)
+* Repo Link
+  - [Project](https://github.com/RuhanRK/friendship)
+* Screenshot
+  > ![Friendship card](https://github.com/RuhanRK/friendship/blob/master/Capture1.PNG)
+  > ![Friendship card](https://github.com/RuhanRK/friendship/blob/master/capture2.png)
+ 
