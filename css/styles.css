@@ -1,50 +1,27 @@
-html, body{
-    height: 100%;
-    width: 100%;
-    margin-left: 0.5rem;
-    padding: 1%;
-}
+
 .container{
+    /* display: flex; */
     margin-top: 2%;
     margin-bottom: 7%;
+    margin-right: 7%;
     margin-left: 7%;
-    padding: 1%;
+    padding: 0.5%;
 }
 .card:hover{
     -webkit-box-shadow: -1px 9px 50px -12px brown;
     -moz-box-shadow: -1px 9px 50px -12px brown;
     box-shadow: -1px 9px 50px -12px brown;
 }
-
-@media screen and (min-width:350) and (max-width:639px){
-    html, body{
-        height: 100%;
-        width: 100%;
-        margin-right: 4rem;
-    }
-
-    .container{
-        margin-top: 2%;
-        margin-bottom: 7%;
-        margin-left: 0.1rem;
-        padding: 1%;
+@media screen and (min-width:300px) and (max-width:413px){
+    html , body {
+        margin: 5%;
+        padding: 2px;
     }
 }
 
-@media screen and (min-width:640px) and (max-width:731px){
-    html, body{
-        height: 100%;
-        width: 100%;
-        margin-left: 0.5rem;
-        padding: 3%;
-    }
-}
-
-@media screen and (min-width:732px) and (max-width:992px){
-    html, body{
-        height: 100%;
-        width: 100%;
-        margin: 0 auto;
-        padding: 1%;
+@media screen and (min-width:414px){
+    html , body {
+        margin: 5%;
+        padding: 2px;
     }
 }
