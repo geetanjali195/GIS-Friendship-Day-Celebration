@@ -28,3 +28,6 @@ BEST CARDS WILL BE REWARDED WITH SOMETHING MORE SURPRISE THINGS..
   https://github.com/yashsartanpara/FriendshipDayCard <br/>
   
  
+* Reshu Agarwal (@ratio.and)
+https://github.com/Rratio/FriendsApp
+Screenshot also include in the form of Activity name.
