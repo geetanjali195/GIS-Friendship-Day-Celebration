@@ -29,7 +29,7 @@ BEST CARDS WILL BE REWARDED WITH SOMETHING MORE SURPRISE THINGS..
 
 
 * Manajit Pal (@manajit.pal.mws) <br/>
-  https://codepen.io/ManajitPal/full/VBBzEZ/<br/>
+  https://manajitpal.github.io/GIS-Friendship-Day-Celebration/<br/>
   https://github.com/ManajitPal/GIS-Friendship-Day-Celebration<br/>
   ![Project Screenshot](https://github.com/ManajitPal/GIS-Friendship-Day-Celebration/raw/master/screenshot.png)
   
