@@ -26,5 +26,9 @@ BEST CARDS WILL BE REWARDED WITH SOMETHING MORE SURPRISE THINGS..
 * Yash Sartanpara (@Yash.Fend) <br/>
   https://yashsartanpara.github.io/FriendshipDayCard/ <br/>
   https://github.com/yashsartanpara/FriendshipDayCard <br/>
+
+* Karthikeyan S (@Karthikeyan.mws) <br />
+  https://skarthikeyan96.github.io/Friendship-challenge/ <br />
+  https://github.com/skarthikeyan96 <br />
   
  
