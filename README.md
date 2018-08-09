@@ -27,4 +27,7 @@ BEST CARDS WILL BE REWARDED WITH SOMETHING MORE SURPRISE THINGS..
   https://yashsartanpara.github.io/FriendshipDayCard/ <br/>
   https://github.com/yashsartanpara/FriendshipDayCard <br/>
   
- 
+ * Vikrant Sharma (@Vikrant.fend) <br/>
+  https://vikkrantxx7.github.io/FriendshipDay/ <br/>
+  https://github.com/vikkrantxx7/FriendshipDay <br/>
+  <img src="https://github.com/vikkrantxx7/FriendshipDay/blob/master/img/Screenshot.jpg" width="300"/>
