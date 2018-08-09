@@ -1,0 +1,45 @@
+
+
+body {
+  font-family: Lora;
+  background-color: #a8d8d8;
+}
+
+header {
+  background-color: #36d4d2;
+}
+
+
+.title {
+  text-align: center;
+  font-weight: bold;
+}
+
+.header-main {
+  text-shadow: 4px 2px 2px #808080;
+  color: #FFF;
+}
+
+h4.text-right {
+    margin-right: 50px;
+}
+
+.text-right {
+    margin-right: 30px;
+    font-weight: bold;
+}
+
+@media screen and (min-width: 601px) {
+  .title {
+    font-size: 36px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .title {
+    font-size: 26px;
+  }
+  .greeting {
+    font-size: 20px;
+  }
+}
