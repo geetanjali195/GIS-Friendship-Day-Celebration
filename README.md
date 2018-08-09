@@ -27,4 +27,8 @@ BEST CARDS WILL BE REWARDED WITH SOMETHING MORE SURPRISE THINGS..
   https://yashsartanpara.github.io/FriendshipDayCard/ <br/>
   https://github.com/yashsartanpara/FriendshipDayCard <br/>
   
- 
+* Akash Hamirwasia (@AkashHamirwasia.mws)  
+  https://friendshipday.netlify.com  
+  https://gitlab.com/blenderskool/friendship-day
+
+  ![](https://friendshipday.netlify.com/screenshots/screen-1.png)
