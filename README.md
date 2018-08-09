@@ -96,4 +96,6 @@ Name : HArshal Patil <br>
  Repo. link - https://github.com/Muskangupta866/Friendship_Day_project <br/>
  
  
- 
+ *Yashika Kalra (@yashika.abnd) <br/>
+ Repo Link: https://github.com/Yashika25/BuddiesApp
+ Twitter Link to Video: https://twitter.com/YASHIKA49038475/status/1026661308400168960?s=19
