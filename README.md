@@ -96,4 +96,17 @@ Name : HArshal Patil <br>
  Repo. link - https://github.com/Muskangupta866/Friendship_Day_project <br/>
  
  
+ *Yashika Kalra (@yashika.abnd) <br/>
+ Repo Link: https://github.com/Yashika25/BuddiesApp
+ 
+ ## Ratnadeep Biswakarma @Ratnadeep
+ ### Project Live Link
+ - [Live link] (http://ratnadeepbiswakarma.me/GIS-Friendship-Card/)
+ ### Project Repository
+ - [Repository] (https://github.com/RatnadeepBiswakarma/GIS-Friendship-Card)
+ ### Screenshots
+ > ![Screenshot](https://github.com/RatnadeepBiswakarma/GIS-Friendship-Card/blob/master/img/Screenshot/Screenshot1.png)
+> ![Screenshot](https://github.com/RatnadeepBiswakarma/GIS-Friendship-Card/blob/master/img/Screenshot/Screenshot2.png)
+> ![Screenshot](https://github.com/RatnadeepBiswakarma/GIS-Friendship-Card/blob/master/img/Screenshot/Screenshot3.png)
+> ![Screenshot](https://github.com/RatnadeepBiswakarma/GIS-Friendship-Card/blob/master/img/Screenshot/Screenshot4.png)
  
