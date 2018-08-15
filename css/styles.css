@@ -1,7 +1,7 @@
 
 .container{
     /* display: flex; */
-    margin-top: 2%;
+    margin-top: 0.5%;
     margin-bottom: 7%;
     margin-right: 7%;
     margin-left: 7%;
@@ -12,6 +12,17 @@
     -moz-box-shadow: -1px 9px 50px -12px brown;
     box-shadow: -1px 9px 50px -12px brown;
 }
+#fend-1 {
+    -webkit-animation-duration: 1s;
+    -webkit-animation-delay: 1s;
+    -webkit-animation-iteration-count: infinite;
+  }
+
+  #fend-2 {
+    -webkit-animation-duration: 2s;
+    -webkit-animation-delay: 1s;
+    -webkit-animation-iteration-count: infinite;
+  }
 @media screen and (min-width:300px) and (max-width:413px){
     html , body {
         margin: 5%;
