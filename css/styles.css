@@ -27,6 +27,11 @@
     -webkit-animation-iteration-count: infinite;
     color: deeppink
   }
+
+  #footer-1{
+   background-color: lightpink;
+
+  }
 @media screen and (min-width:300px) and (max-width:413px){
     html , body {
         margin: 5%;
