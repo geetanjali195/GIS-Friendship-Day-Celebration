@@ -1,6 +1,7 @@
 
 .container{
     /* display: flex; */
+   font-family: 'Times New Roman', Times, serif;
     margin-top: 0.5%;
     margin-bottom: 7%;
     margin-right: 7%;
@@ -12,16 +13,19 @@
     -moz-box-shadow: -1px 9px 50px -12px brown;
     box-shadow: -1px 9px 50px -12px brown;
 }
+
 #fend-1 {
     -webkit-animation-duration: 1s;
     -webkit-animation-delay: 1s;
     -webkit-animation-iteration-count: infinite;
+    color: rgb(220, 20, 177);
   }
 
   #fend-2 {
     -webkit-animation-duration: 2s;
     -webkit-animation-delay: 1s;
     -webkit-animation-iteration-count: infinite;
+    color: deeppink
   }
 @media screen and (min-width:300px) and (max-width:413px){
     html , body {
