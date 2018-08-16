@@ -23,6 +23,12 @@ BEST CARDS WILL BE REWARDED WITH SOMETHING MORE SURPRISE THINGS..
 * Yash Sartanpara (@Yash.Fend) <br/>
   https://yashsartanpara.github.io/FriendshipDayCard/ <br/>
   https://github.com/yashsartanpara/FriendshipDayCard <br/>
+
+
+* Manajit Pal (@manajit.pal.mws) <br/>
+  https://manajitpal.github.io/GIS-Friendship-Day-Celebration/<br/>
+  https://github.com/ManajitPal/GIS-Friendship-Day-Celebration<br/>
+  ![Project Screenshot](https://github.com/ManajitPal/GIS-Friendship-Day-Celebration/raw/master/screenshot.png)
   
  
 * Sofia Nayak (@sofia.fend) 
