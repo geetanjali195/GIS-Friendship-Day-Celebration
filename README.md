@@ -24,6 +24,8 @@ BEST CARDS WILL BE REWARDED WITH SOMETHING MORE SURPRISE THINGS..
   https://yashsartanpara.github.io/FriendshipDayCard/ <br/>
   https://github.com/yashsartanpara/FriendshipDayCard <br/>
   
+ * Muskan Gupta (@Muskan.abnd) <br/>
+ Repo. link - https://github.com/Muskangupta866/Friendship_Day_project <br/>
  
 * Sofia Nayak (@sofia.fend) 
    * [Sofia's Card](https://nayaksofia.github.io/GIS-Friendship-Day-Celebration/) 
